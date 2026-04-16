@@ -22,4 +22,4 @@ jobs:
         uses: actions/upload-artifact@v5
         with:
           name: Plugin
-          path: target/ShopPlugin-1.0.0.jar
+          path: target/EconomyPlugin-1.0.0.jar
